@@ -30,4 +30,5 @@ Copy Android file to PC via Adb which support breakpoint transfer by file unit:
     .\copy.ps1 -cmd clear
 
 > 如果有中文文件名：Win10/11-控制面板-区域-管理-更改系统区域设置-Beta版：使用Unicode UTF-8提供全球语言支持
+> 
 > 写这个脚本的原因是，我的手机在系统升级后无限重启，只能在桌面停留10s，没有也无法Root
